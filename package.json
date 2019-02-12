@@ -7,7 +7,7 @@
   "author": "Bennett Garner",
   "repository": {
     "type": "git",
-    "url":
+    "url": "https://github.com/bennett39/portfolio39.git"
   },
   "engines": {
     "node": ">=8"
